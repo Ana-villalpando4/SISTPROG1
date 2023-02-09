@@ -1,8 +1,6 @@
 # SISTPROG1
 
-![]([https://images.cooltext.com/5508510.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fajolotito.com.mx%2Fproducts%2Fsticker-ajolotito-estudiante-xo-the-monster&psig=AOvVaw0dGl9U6OCloaT8xzFPQGOQ&ust=1676068380460000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj4j7a_if0CFQAAAAAdAAAAABAD))
-
-
+![image](https://user-images.githubusercontent.com/124212032/217955566-60806c72-bf04-4319-8662-3f25f113494b.png)
 
 
 ### Hola Visitantes 👋
@@ -14,8 +12,6 @@ Atendiendo en el escuela Instituto Tecnologico de Tijuana.
 
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 - 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-
-[![IoTeacher GitHub stats](https://github-readme-stats.vercel.app/api?username=ioteacher)](https://github.com/ioteacher/github-readme-stats)
 
 
 Ejemplo Tablas en MD
