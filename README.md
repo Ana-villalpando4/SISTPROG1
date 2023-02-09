@@ -1,8 +1,8 @@
 # SISTPROG1
 
-![](https://images.cooltext.com/5508510.png)
+![]([https://images.cooltext.com/5508510.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fajolotito.com.mx%2Fproducts%2Fsticker-ajolotito-estudiante-xo-the-monster&psig=AOvVaw0dGl9U6OCloaT8xzFPQGOQ&ust=1676068380460000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj4j7a_if0CFQAAAAAdAAAAABAD))
 
-<a href="http://cooltext.com" target="_top"><img src="[https://cooltext.com/images/ct_pixel.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fajolotito.com.mx%2Fproducts%2Fsticker-ajolotito-estudiante-xo-the-monster&psig=AOvVaw0dGl9U6OCloaT8xzFPQGOQ&ust=1676068380460000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj4j7a_if0CFQAAAAAdAAAAABAD)" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
 
 
 ### Hola Visitantes 👋
