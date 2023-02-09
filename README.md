@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/124212032/217955566-60806c72-bf04-4319-8662-3f25f113494b.png)
 
+<img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" border="0" /></a>
+
 
 ### Hola Visitantes 👋
 
