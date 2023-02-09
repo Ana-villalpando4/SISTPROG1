@@ -1,8 +1,9 @@
 # SISTPROG1
 
 
+![image](https://user-images.githubusercontent.com/124212032/217956388-2f6be8a3-9722-4808-bb71-3b78f8467f5f.png)
 
-<center><img src="https://user-images.githubusercontent.com/124212032/217955566-60806c72-bf04-4319-8662-3f25f113494b.png" width="200" height="200" border="0" /></a></center>
+<img src="https://user-images.githubusercontent.com/124212032/217955566-60806c72-bf04-4319-8662-3f25f113494b.png" width="200" height="200" border="0" /></a>
 
 
 ### Hola Visitantes 👋
