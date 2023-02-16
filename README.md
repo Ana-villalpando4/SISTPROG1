@@ -1,5 +1,6 @@
 # SISTPROG1
 
+![](IMAGEN/A.png)
 
  ![image](https://user-images.githubusercontent.com/124212032/217956388-2f6be8a3-9722-4808-bb71-3b78f8467f5f.png)
 
